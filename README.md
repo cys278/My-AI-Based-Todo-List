@@ -117,14 +117,6 @@
 - **TailwindCSS**: Ensures a responsive and modern design.
 - **Color Scheme**: Red tones for buttons and headers, with balanced text and background colors.
 
-## Future Enhancements
-- Add task categories and priorities.
-- Implement a task completion tracker.
-- Integrate user authentication.
-- Add AI suggestions for task scheduling and prioritization.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## Acknowledgments
 - OpenAI for the GPT models.
